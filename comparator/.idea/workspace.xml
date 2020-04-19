@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="901d5b80-bdc9-400f-ac58-e3432f540e01" name="Default Changelist" comment="" />
+    <list default="true" id="901d5b80-bdc9-400f-ac58-e3432f540e01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emailSpam/emailSpam.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/comparator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/comparator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZJgTo75jzOMUZPVWRtNAYFOccl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,9 +35,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../enums" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -87,34 +101,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="434" y="142" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1584574639453" />
-    <state x="485" y="114" key="FileChooserDialogImpl" timestamp="1584577161816">
+    <state x="485" y="114" key="FileChooserDialogImpl" timestamp="1587319623406">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="485" y="114" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584577161816" />
-    <state width="1252" height="198" key="GridCell.Tab.0.bottom" timestamp="1584576896199">
+    <state x="485" y="114" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587319623406" />
+    <state width="1252" height="198" key="GridCell.Tab.0.bottom" timestamp="1586188616318">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1252" height="198" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584576896199" />
-    <state width="1252" height="198" key="GridCell.Tab.0.center" timestamp="1584576896198">
+    <state width="1252" height="198" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586188616318" />
+    <state width="1252" height="198" key="GridCell.Tab.0.center" timestamp="1586188616318">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1252" height="198" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584576896198" />
-    <state width="1252" height="198" key="GridCell.Tab.0.left" timestamp="1584576896198">
+    <state width="1252" height="198" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586188616318" />
+    <state width="1252" height="198" key="GridCell.Tab.0.left" timestamp="1586188616318">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1252" height="198" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584576896198" />
-    <state width="1252" height="198" key="GridCell.Tab.0.right" timestamp="1584576896198">
+    <state width="1252" height="198" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586188616318" />
+    <state width="1252" height="198" key="GridCell.Tab.0.right" timestamp="1586188616318">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1252" height="198" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584576896198" />
+    <state width="1252" height="198" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586188616318" />
     <state x="235" y="14" key="Maven.ArtifactSearchDialog" timestamp="1584570414917">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="235" y="14" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1584570414917" />
-    <state x="401" y="183" key="com.intellij.ide.util.TipDialog" timestamp="1584574523441">
+    <state x="0" y="0" key="SettingsEditor" timestamp="1586188597432">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="401" y="183" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584574523441" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586188597432" />
+    <state x="401" y="183" key="com.intellij.ide.util.TipDialog" timestamp="1587319098401">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="401" y="183" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587319098401" />
     <state x="476" y="62" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584570389180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -123,9 +141,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="0" width="737" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1584574167839" />
-    <state x="87" y="61" key="new project wizard" timestamp="1584577165664">
+    <state x="87" y="61" key="new project wizard" timestamp="1587319643514">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="87" y="61" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584577165664" />
+    <state x="87" y="61" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587319643514" />
   </component>
 </project>
