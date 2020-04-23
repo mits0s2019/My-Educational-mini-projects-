@@ -21,5 +21,6 @@ public class App {
         System.out.println("Compare by age :");
         users.sort(new UserComparator.SortByAge());
         users.forEach(System.out::println);
+
     }
 }
